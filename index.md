@@ -9,3 +9,7 @@ This is a code comment
 ``` javascript
 let x = 'hello world'
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
